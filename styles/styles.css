@@ -1,0 +1,164 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #343233;
+  background-repeat: no-repeat;
+  line-height: 1.75;
+}
+h1 {
+  text-align: center;
+}
+nav {
+  margin-top: 0.0023125vw;
+  padding: 1.171875vw;
+  text-align: center;
+}
+.link {
+  transition: 0.4s;
+  color: #ffffff;
+  font-size: 1.3671875vw;
+  text-decoration: none;
+  padding: 0 0.390625vw;
+  margin: 0 0.390625vw;
+}
+.link:hover {
+  background-color: #ffffff;
+  color: #343233;
+  padding: 0.9375vw 0.390625vw;
+}
+.header {
+  height: 40vh;
+  width: 98.6vw;
+  background-repeat: no-repeat;
+}
+h2 {
+  text-align: center;
+  font-size: 1.271875vw;
+  margin-bottom: -10vh;
+}
+div.box {
+  text-align: center;
+  font-size: 1.271875vw;
+  background-color: #827d80;
+  position: absolute;
+  right: 9.765625vw;
+  left: 9.765625vw;
+  border: 2.5vw solid #827d80;
+}
+.Charakter {
+  margin-top: -1.3vh;
+  width: 100%;
+  color: white;
+}
+.Charakter img {
+  height: 20vw;
+  width: 20vw;
+}
+.drivers1 {
+  display: inline-block;
+  width: 100%;
+  border: 1vw solid #827d80;
+  border-radius: 11vw;
+  background-color: #343233;
+}
+.drivers2 {
+  display: inline-block;
+  width: 100%;
+  border: 1vw solid #827d80;
+  border-radius: 11vw;
+  background-color: #343233;
+}
+.drivers3 {
+  display: inline-block;
+  width: 100%;
+  border: 1vw solid #827d80;
+  border-radius: 11vw;
+  background-color: #343233;
+}
+.drivers4 {
+  display: inline-block;
+  width: 100%;
+  border: 1vw solid #827d80;
+  border-radius: 11vw;
+  background-color: #343233;
+}
+.drivers5 {
+  display: inline-block;
+  width: 100%;
+  border: 1vw solid #827d80;
+  border-radius: 11vw;
+  background-color: #343233;
+}
+.Charakter_Pyra {
+  margin: 2vw;
+  float: left;
+  display: inline-block;
+}
+.Charakter_Rex {
+  margin: 2vw;
+  float: left;
+  display: inline-block;
+}
+.Charakter_Nia {
+  margin: 2vw;
+  float: left;
+  display: inline-block;
+}
+.Charakter_Dromarch {
+  margin: 2vw;
+  float: left;
+  display: inline-block;
+}
+.Charakter_Tora {
+  margin: 2vw;
+  float: left;
+  display: inline-block;
+}
+.Charakter_Poppi {
+  margin: 2vw;
+  float: left;
+  display: inline-block;
+}
+.Charakter_Morag {
+  margin: 2vw;
+  float: left;
+  display: block;
+}
+.Charakter_Brighid {
+  margin: 2vw;
+  float: left;
+  display: block;
+}
+.Charakter_Zeke {
+  margin: 2vw;
+  float: left;
+  display: inline-block;
+}
+.Charakter_Pandoria {
+  margin: 2vw;
+  float: left;
+  display: inline-block;
+}
+.charakter_video {
+  display: block;
+  width: 26.8vw;
+  float: left;
+  margin-top: 10vh;
+  cursor: pointer;
+}
+.Entwickler {
+  border: 1vw solid #827d80;
+  width: 15vw;
+  height: 15vh;
+}
+.Story_Bild1 {
+  height: 30vh;
+  width: 35vw;
+}
+.Story_Bild2 {
+  height: 40vh;
+  width: 45vw;
+}
+.Gameplay_Preview {
+  height: 40vh;
+  width: 40vw;
+}
